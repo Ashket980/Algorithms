@@ -28,4 +28,4 @@ public class CharactersSame {
         return true;
     }
 }
-hi
+
